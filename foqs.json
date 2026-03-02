@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cómo me conecto a la red?",
+        "respuesta": "Configura tu ordenador en modo DHCP (IP automática)."
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Necesito traer cable de red?",
+        "respuesta": "Sí, trae un cable Ethernet de al menos 5 metros."
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Debo traer mis propios periféricos?",
+        "respuesta": "Sí, trae tu ratón, teclado y auriculares."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Qué cables debo traer para la corriente?",
+        "respuesta": "Debes traer una regleta de al menos 3 tomas para conectar tu torre, monitor y periféricos."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Puedo traer una nevera pequeña o ventilador?",
+        "respuesta": "No. Solo se permite conectar el ordenador y el monitor para evitar sobrecargas eléctricas."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Dónde puedo dejar mis objetos de valor?",
+        "respuesta": "Te recomendamos no dejarlos nunca solos. La organización no se hace responsable de pérdidas."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Tengo que actualizar los juegos antes de venir?",
+        "respuesta": "Sí. Por favor, descarga todas las actualizaciones en casa para no saturar la red del evento."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Se puede comer en la mesa del ordenador?",
+        "respuesta": "No. Por higiene y seguridad del equipo, utiliza exclusivamente las zonas de restauración habilitadas."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿A qué hora se apagan las luces?",
+        "respuesta": "El recinto está abierto 24h, pero se reducirá la iluminación de 00:00 a 08:00 para facilitar el descanso."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Puedo usar Wi-Fi para jugar?",
+        "respuesta": "No se recomienda. El Wi-Fi es solo para móviles; para jugar debes usar cable para evitar lag."
+    }
+]
